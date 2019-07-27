@@ -1,1 +1,4 @@
+@startuml
 class Example
+
+@enduml
