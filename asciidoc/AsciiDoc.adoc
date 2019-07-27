@@ -1,4 +1,4 @@
-:gitplant: http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/dss99911/markdown/master/asciidoc
+:gitplant: http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/dss99911/markdown/master/
 
 = Using plantuml in AsciiDoc on GitHub
 :author: David Buret
@@ -44,10 +44,10 @@ Easy way to display plantuml in asciidoc on github
  :gitplant: http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/DBuret/journal/master/
 
 .In your document
- image::{gitplant}/test.puml[test]
+ image::{gitplant}/asciidoc/test.puml[test]
 
 .Result
-image::{gitplant}/test.puml[PlantUML Image]
+image::{gitplant}/asciidoc/test.puml[PlantUML Image]
 
 TIP: Purge an image from GitHub cache with: `curl -X PURGE https://camo.githubusercontent.com/xxxxxxxxxxx`
 
