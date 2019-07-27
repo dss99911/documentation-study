@@ -1,4 +1,4 @@
-:gitplant: http://www.plantuml.com/plantuml/proxy?src=dss99911/markdown/master/
+:gitplant: http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/dss99911/markdown/master/
 
 = Using plantuml in AsciiDoc on GitHub
 :author: David Buret
