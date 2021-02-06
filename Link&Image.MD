@@ -1,5 +1,7 @@
 ## Getting Started
 
+if direct url use (), if define the url below, use []
+
 * [**Go to Main**](README.md)
 * [**Markdown**](https://www.jetbrains.com/help/idea/markdown.html)
 
