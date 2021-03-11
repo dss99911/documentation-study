@@ -1,4 +1,4 @@
-:icons: font
+//:icons: font
 
 //show icon on github
 ifdef::env-github[]
