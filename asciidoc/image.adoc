@@ -1,0 +1,9 @@
+= Image
+:imagesdir: ./img
+
+image::name.png[]
+
+[#img-sunset]
+.A mountain sunset
+[link=https://www.flickr.com/photos/javh/5448336655]
+image::sunset.png[Sunset,200,100]

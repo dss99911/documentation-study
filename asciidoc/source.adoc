@@ -1,0 +1,17 @@
+.Specify GitLab CI stages
+[source,yaml]
+----
+image: node:10.16.3-buster
+stages: [ init, verify, deploy ]
+----
+
+[source,bash]
+----
+echo "dsafsdf"
+ls
+----
+
+[source,asciidoc]
+----
+:idseparator:
+----

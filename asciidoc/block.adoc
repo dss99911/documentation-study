@@ -1,0 +1,73 @@
+.This is Title of Sidebar block
+****
+This is content in a sidebar block.
+======
+This is an example inside an example
+======
+This is more content in the sidebar block.
+****
+
+[listing]
+sudo    dnf install asciidoc
+ABC
+asd
+
+[quote]
+Never do today what you can put off `'til tomorrow.
+
+
+```
+echo("")
+```
+
+//This is comment
+
+....
+asdfasdf
+sadf
+
+sdf sdfa sf
+....
+
+
+--
+adsf +
+sdaf
+dsf
+--
+
+****
+Where is tip?
+[TIP]
+This is Tip
+[NOTE]
+dsaf
+[IMPORTANT]
+Impotant news
+[WARNING]
+Warning
+[CAUTION]
+Caution
+[abstract]
+This is abstract
+[verse]
+This is verse
+
+[example]
+This is example
+
+[quote]
+dsaf
+
+[listing]
+what is listing?
+this is listing
+
+
+****
+
+
+[sidebar]
+sidebar
+
+

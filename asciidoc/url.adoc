@@ -1,0 +1,24 @@
+= Document Title
+:hide-uri-scheme:
+
+https://asciidoctor.org
+
+You'll often see <https://example.org> used in examples.
+Email us at hello@example.com to say hello.
+
+
+== Escaping Url
+Once launched, the site will be available at \https://example.org.
+
+If you cannot access the site, email \help@example.org for assistance.
+
+== URL macro
+* Type "https://asciidoctor.org[]" into the location bar of your browser.
+* Ask questions on the https://discuss.asciidoctor.org/[*mailing list*].
+* https://discuss.asciidoctor.org[Blank Window,role=resource,window=_blank]
+* Chat with other Asciidoctor users on the https://discuss.asciidoctor.org/[*Bold Color Green*^ ,role=green].
+* https://example.org["Color teal",role=teal]
+* https://asciidoctor.org[different tab,window=read-later]
+* mailto:join@discuss.example.org[Subscribe,Subscribe me]
+* mailto:join@discuss.example.org[Subscribe,Subscribe me,I want to join]
+

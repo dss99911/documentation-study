@@ -1,0 +1,14 @@
+.This is Title of Sidebar block
+****
+This is content in a sidebar block.
+
+image::img/name.png[]
+
+This is more content in the sidebar block.
+****
+
+
+.Mint
+[sidebar]
+Mint has visions of global conquest.
+If you don't plant it in a container, it will take over your garden.

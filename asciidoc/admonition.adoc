@@ -1,0 +1,21 @@
+:icons: font
+ifdef::env-github[]
+:tip-caption: :bulb:
+endif::[]
+
+
+WARNING: Wolpertingers are known to nest in server racks.
+Enter at your own risk.
+
+IMPORTANT: adsfadsfadsf
+
+[TIP]
+This is Tip
+[NOTE]
+dsaf
+[IMPORTANT]
+Impotant news
+[WARNING]
+Warning
+[CAUTION]
+Caution

@@ -1,0 +1,11 @@
+The hail-and-rainbow protocol can be initiated at five levels:
+
+. doublefootnote:[The double hail-and-rainbow level makes my toes tingle.]
+. tertiary
+. supernumerary
+. supermassive
+. apocalyptic
+
+define footnote id.footnote:disclaimer[Opinions are my own.]
+
+use defined foot note id. footnote:disclaimer[]

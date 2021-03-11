@@ -1,0 +1,6 @@
+.Terminal Output
+....
+From github.com:asciidoctor/asciidoctor
+ * branch        master   -> FETCH_HEAD
+Already up to date.
+....

@@ -1,0 +1,93 @@
+
+.Unordered List
+****
+* 1
+** 2
+*** 3
+****
+
+.Ordered List
+****
+. Step 1
+. Step 2
+.. Step 2a
+... Step 2i
+.... Step 2A
+..... Step 2I
+.. Step 2b
+. Step 3
+****
+
+.Checked list
+****
+* [*] checked
+* [x] also checked
+* [ ] not checked
+* normal list item
+****
+
+.List Continuation
+****
+* The header in AsciiDoc must start with a document title.
++
+----
+= Document Title
+----
++
+Keep in mind that the header is optional.
+
+* Optional Author and Revision information immediately follows the header title.
++
+----
+= Document Title
+Doc Writer <doc.writer@asciidoc.org>
+v1.0, 2022-01-01
+----
+****
+
+.Description Lists
+****
+CPU:: The brain of the computer.
+Hard drive:: Permanent storage for operating system and/or user files.
+RAM:: Temporarily stores information the CPU uses during operation.
+
+Dairy::
+* Milk
+* Eggs
+Bakery::
+* Bread
+Produce::
+* Bananas
+
+Operating Systems::
+Linux:::
+. Fedora
+* Desktop
+. Ubuntu
+* Desktop
+* Server
+BSD:::
+. FreeBSD
+. NetBSD
+
+Cloud Providers::
+PaaS:::
+. OpenShift
+. CloudBees
+IaaS:::
+. Amazon EC2
+. Rackspace
+
+[horizontal]
+Keyboard:: Used to enter text or control items on the screen.
+Mouse:: Used to point to and select items on your computer screen.
+Monitor:: Displays information in visual form using text and graphics.
+
+.Question and answer list syntax
+
+[qanda]
+What is the answer?::
+This is the answer.
+
+Have you seen my duck?:: No.
+****

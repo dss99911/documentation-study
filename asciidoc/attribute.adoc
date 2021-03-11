@@ -1,0 +1,32 @@
+
+:author: hyun.kim
+:introduction: Hi + \
+I'm hyun \
+adsf
+
+:cols: pass:[.>2,.>4]
+:app-name: pass:quotes[MyApp^2^]
+
+
+This is a basic AsciiDoc document by {author}.
+
+
+{introduction}
+
+{cols}
+{app-name}
+
+//shows html tag
+[subs=attributes+]
+------
+{app-name}
+------
+
+:app-name: pass:q[MyApp^2^]
+
+:app-name2: MyApp^2^
+
+[subs="specialchars,attributes,quotes,replacements,macros,post_replacements"]
+The application is called {app-name2}.
+
+
