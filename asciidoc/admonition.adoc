@@ -1,8 +1,8 @@
 :icons: font
-ifdef::env-github[]
-:tip-caption: :bulb:
-endif::[]
-
+//ifdef::env-github[]
+//:tip-caption: :bulb:
+//endif::[]
+k
 
 WARNING: Wolpertingers are known to nest in server racks.
 Enter at your own risk.
