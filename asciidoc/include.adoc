@@ -1,0 +1,10 @@
+= My book
+
+:leveloffset: +1
+
+include::block.adoc[]
+
+include::list.adoc[]
+
+
+:leveloffset: -1
