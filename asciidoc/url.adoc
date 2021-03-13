@@ -21,4 +21,4 @@ If you cannot access the site, email \help@example.org for assistance.
 * https://asciidoctor.org[different tab,window=read-later]
 * mailto:join@discuss.example.org[Subscribe,Subscribe me]
 * mailto:join@discuss.example.org[Subscribe,Subscribe me,I want to join]
-
+* link:section.adoc[section]
