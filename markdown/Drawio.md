@@ -1,5 +1,14 @@
-Use Draw.io on Github
-=
+# Use Draw.io on Github
+
+## Simple way
+1. use Draw.io desktop chrome app
+2. save on local file on the git project
+3. export image file.
+4. manage file by git
+
+
+## Deprecated
+
 
 #### 1. [Connect Draw.io with Github](https://about.draw.io/github-support/)
 #### 2. Create Draw.io file
