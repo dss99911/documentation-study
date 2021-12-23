@@ -10,3 +10,6 @@ Plant UML
 class Example
 
 ```
+
+$$
+x+y=1$$
